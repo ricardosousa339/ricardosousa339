@@ -46,6 +46,5 @@ Welcome to my GitHub profile! I'm a passionate developer interested in web devel
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardosousa339&repo=shadowcafe&theme=radical)](https://github.com/ricardosousa339/shadowcafe)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardosousa339&repo=kibe-labeler-rust&theme=radical)](https://github.com/ricardosousa339/kibe-labeler-rust)
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch.

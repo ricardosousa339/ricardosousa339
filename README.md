@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Ricardo Sousa 👋
 
-<!--
-**ricardosousa339/ricardosousa339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=ricardosousa339&color=blue)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer interested in web development, mobile development, backend systems, and IoT projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Programming Languages:** 
+  - Python
+  - TypeScript
+  - Java
+
+- **Frameworks and Libraries:** 
+  - FastAPI
+  - Django
+  - NextJS
+
+- **Databases:** 
+  - MySQL
+  - Postgres
+
+- **Tools:** 
+  - Git & GitHub
+  - Docker
+
+## 🌱 Currently Learning
+
+- Avançando em FastAPI e TypeScript
+- Explorando Rust para projetos de alto desempenho
+
+## 📈 GitHub Stats
+
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardosousa339&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- **Email:** [seu endereço de email]
+- **LinkedIn:** [seu perfil no LinkedIn]
+- **Twitter:** [seu perfil no Twitter]
+
+## 📌 Pinned Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardosousa339&repo=portfolio&theme=radical)](https://github.com/ricardosousa339/portfolio)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardosousa339&repo=packphotos&theme=radical)](https://github.com/ricardosousa339/packphotos)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardosousa339&repo=shadowcafe&theme=radical)](https://github.com/ricardosousa339/shadowcafe)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardosousa339&repo=kibe-labeler-rust&theme=radical)](https://github.com/ricardosousa339/kibe-labeler-rust)
+
+Thank you for visiting my profile! Feel free to check out my repositories and get in touch.

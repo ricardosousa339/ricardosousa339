@@ -35,9 +35,8 @@ Welcome to my GitHub profile! I'm a passionate developer interested in web devel
 
 ## 📫 How to reach me
 
-- **Email:** [seu endereço de email]
-- **LinkedIn:** [seu perfil no LinkedIn]
-- **Twitter:** [seu perfil no Twitter]
+- **Email:** ricardo.hs.machado@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ricardohsmachado/
 
 ## 📌 Pinned Repositories
 
